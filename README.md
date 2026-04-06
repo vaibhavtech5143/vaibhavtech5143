@@ -1,68 +1,139 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
-<h3 align="center">🚀 DevSecOps • Cloud Security • Full-Stack Developer</h3>
+<h3 align="center">🚀 SRE | DevSecOps Engineer | Cloud Security | AWS | Kubernetes</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavtech5143&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vaibhavtech5143&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 💼 About Me
-- 🔭 **Current Role:** Building secure cloud solutions as a **DevSecOps & Cloud Security Engineer** while architecting **MERN/TypeScript** applications.  
-- 🌱 **Currently Exploring:** AWS security, Kubernetes hardening, CI/CD automation, and advanced TypeScript.  
-- 👯 **Open to Collaborate On:** Cloud Security tools, Open Source DevOps projects, and innovative SaaS products.  
-- 💬 **Ask Me About:** Cloud Security (AWS, Azure), DevOps pipelines, MERN stack, and automation.  
-- 📫 **Reach Me At:** **vaibhavsingh2633@gmail.com**
-- 🌐 **Portfolio:** [vaibhav2633.tech](https://vaibhav2633.tech/)  
-- 📄 **Resume:** [View on Google Drive](https://drive.google.com/file/d/1DnJDe3ZmNPpP-yLV2L7uXIGF50LJVTy2/view?usp=sharing)
+## 💼 About Me
+- 🔐 DevSecOps / SRE Engineer with **2+ years experience in banking & fintech environments**
+- ☁️ Specialized in **AWS Cloud (EKS, ECS, IAM, VPC, RDS, Lambda)** and **Kubernetes operations**
+- ⚙️ Expert in **CI/CD automation, GitOps (ArgoCD), and Infrastructure as Code (Terraform, Ansible)**
+- 📊 Strong in **Observability (Prometheus, Grafana, ELK, Loki, CloudWatch)**
+- 🛡️ Focused on **Cloud Security, Vulnerability Scanning, and Compliance (PCI-DSS, CIS Benchmarks)**
+- 🧠 Blend of **DevOps + Security + Backend Engineering**
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 Impact & Achievements
+- ⚡ Reduced **release cycle time by 40%** via optimized CI/CD pipelines  
+- 📉 Reduced **MTTR by 50%** using observability and alerting systems  
+- 🚀 Managed **50+ microservices on Kubernetes (EKS)** with 99.9% uptime  
+- 🔐 Built **secure CI/CD pipelines** with Snyk, Trivy, SonarQube, OWASP  
+- 🏗️ Provisioned full AWS infra using Terraform → **60% faster setup**  
+- 🧑‍💻 Mentored engineers and led production-grade DevOps practices  
+
+---
+
+## 🧠 Core Expertise
+
+### ☁️ Cloud & Infrastructure
+- AWS: EC2, S3, IAM, VPC, RDS, Lambda, ECS, EKS, API Gateway  
+- Terraform (modular infra), Ansible (automation & patching)  
+
+### ⚙️ DevOps & SRE
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, Azure DevOps  
+- GitOps: ArgoCD  
+- SLA / SLO / SLI, Incident Management, Reliability Engineering  
+
+### 📊 Observability
+- Prometheus, Grafana, ELK Stack, Loki, CloudWatch, Splunk  
+
+### 🔐 Security / DevSecOps
+- OWASP, Trivy, Snyk, Prisma Cloud, Vault, KMS  
+- Container Security, IAM Hardening, Secret Detection  
+- PCI-DSS & Secure SDLC Practices  
+
+### 💻 Development
+- Node.js, TypeScript, Python, Java, Go  
+- MERN Stack, REST APIs, Microservices  
+
+---
+
+## 🏗️ Key Projects
+
+### 🔍 Cloud Security Scanner (AWS)
+- Detects misconfigurations, IAM risks, and attack paths  
+- Visualizes cloud security posture  
+- Inspired by real fintech security challenges  
+
+---
+
+### 🔐 Secret Detection Pipeline
+- Automated credential scanning using **Gitleaks + CI/CD**
+- Integrated dashboards via **Grafana + ELK**
+- Prevents secrets leakage in production pipelines  
+
+---
+
+### 📦 Dockerized Backup System
+- Automated MySQL backups → S3 → retention policies  
+- Slack notifications + lifecycle cleanup  
+- Fully containerized + production-ready  
+
+---
+
+### 🤖 AI Automation Systems
+- WhatsApp bots using Twilio / Gupshup  
+- Workflow automation using n8n  
+- Real-world insurance automation system  
+
+---
+
+## 🌐 Connect With Me
 <p align="left">
 <a href="https://twitter.com/vaibhavrsingh3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vaibhav-singh-0785291b5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/_webbhav__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
----
-
-### 🛠️ Tech & Tools
-#### 💻 Core Stack  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-#### 🔐 Security & Others  
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+📫 **Email:** vaibhav.rakesh.singh.2633@gmail.com  
+🌐 **Portfolio:** https://vaibhav2633.tech  
+📄 **Resume:** https://drive.google.com/file/d/1DnJDe3ZmNPpP-yLV2L7uXIGF50LJVTy2/view  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
+
+### ⚙️ CI/CD & Monitoring
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+
+### 🔐 Security
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge)
+
+### 💻 Development
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+## 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavtech5143&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavtech5143&layout=compact" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavtech5143&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavtech5143&" alt="GitHub Streak" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavtech5143&show_icons=true" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-> I secure clouds ☁️, break things 🔐, and still love building cool apps 💻.
-
+## ⚡ Edge Factor
+- 🔥 Real **production experience in banking (rare at this level)**
+- 🧠 Think like **SRE + Security Engineer + Developer**
+- ⚙️ Focus on **automation, scale, and reliability**
+- 🚀 Building systems used in real-world environments, not just demos
